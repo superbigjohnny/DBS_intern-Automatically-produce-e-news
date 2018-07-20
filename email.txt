@@ -1,0 +1,818 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:新細明體;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@新細明體";
+	panose-1:2 1 6 1 0 1 1 1 1 1;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:微軟正黑體;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@微軟正黑體";}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Segoe UI Semibold";
+	panose-1:2 11 7 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:ZH-TW;}
+h1
+	{mso-style-priority:9;
+	mso-style-link:"標題 1 字元";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:24.0pt;
+	font-family:"新細明體",serif;
+	mso-fareast-language:ZH-TW;
+	font-weight:bold;}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"標題 2 字元";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	line-height:300%;
+	page-break-after:avoid;
+	font-size:24.0pt;
+	font-family:"Cambria",serif;
+	mso-fareast-language:ZH-TW;
+	font-weight:bold;}
+h3
+	{mso-style-priority:9;
+	mso-style-link:"標題 3 字元";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	line-height:300%;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:"Cambria",serif;
+	mso-fareast-language:ZH-TW;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"新細明體",serif;
+	mso-fareast-language:ZH-CN;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:24.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:0cm;
+	mso-para-margin-left:2.0gd;
+	mso-para-margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:ZH-TW;}
+span.1
+	{mso-style-name:"標題 1 字元";
+	mso-style-priority:9;
+	mso-style-link:"標題 1";
+	font-family:"新細明體",serif;
+	font-weight:bold;}
+span.2
+	{mso-style-name:"標題 2 字元";
+	mso-style-priority:9;
+	mso-style-link:"標題 2";
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+span.3
+	{mso-style-name:"標題 3 字元";
+	mso-style-priority:9;
+	mso-style-link:"標題 3";
+	font-family:"Cambria",serif;
+	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"新細明體",serif;
+	mso-fareast-language:ZH-CN;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle27
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle28
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle29
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle30
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle31
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle32
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle33
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle34
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle35
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle36
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle37
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle38
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle39
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle40
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle41
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle42
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle43
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle44
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle45
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle46
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle47
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle48
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle49
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle50
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle51
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle52
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle53
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle54
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle55
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle56
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle57
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle58
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle59
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle60
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle61
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle62
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle63
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle64
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle65
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle66
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle67
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle68
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle69
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle70
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle71
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle72
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle73
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle74
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle75
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle76
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle77
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle78
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle79
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle80
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle81
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle82
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle83
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle84
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle85
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle86
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle87
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle88
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle89
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle90
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle91
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle92
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle93
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle94
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle95
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle96
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle97
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle98
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle99
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle100
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle101
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle102
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle103
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle104
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle105
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle106
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle107
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle108
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle109
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1035423968;
+	mso-list-type:hybrid;
+	mso-list-template-ids:954915684 302917614 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:ideograph-traditional;
+	mso-level-text:%2、;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:48.0pt;
+	text-indent:-24.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:72.0pt;
+	text-indent:-24.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:96.0pt;
+	text-indent:-24.0pt;}
+@list l0:level5
+	{mso-level-number-format:ideograph-traditional;
+	mso-level-text:%5、;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:120.0pt;
+	text-indent:-24.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:144.0pt;
+	text-indent:-24.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-24.0pt;}
+@list l0:level8
+	{mso-level-number-format:ideograph-traditional;
+	mso-level-text:%8、;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:192.0pt;
+	text-indent:-24.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:216.0pt;
+	text-indent:-24.0pt;}
+@list l1
+	{mso-list-id:1660696809;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-640251450 230349078 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-number-format:ideograph-traditional;
+	mso-level-text:%2、;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:48.0pt;
+	text-indent:-24.0pt;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:72.0pt;
+	text-indent:-24.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:96.0pt;
+	text-indent:-24.0pt;}
+@list l1:level5
+	{mso-level-number-format:ideograph-traditional;
+	mso-level-text:%5、;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:120.0pt;
+	text-indent:-24.0pt;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:144.0pt;
+	text-indent:-24.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-24.0pt;}
+@list l1:level8
+	{mso-level-number-format:ideograph-traditional;
+	mso-level-text:%8、;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:192.0pt;
+	text-indent:-24.0pt;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:216.0pt;
+	text-indent:-24.0pt;}
+@list l2
+	{mso-list-id:1904215567;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1279307728 1621412834 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;
+	color:red;
+	mso-style-textfill-fill-color:red;
+	mso-style-textfill-fill-alpha:100.0%;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:48.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:72.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:96.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:120.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:144.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:192.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:216.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1032" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=ZH-TW link=blue vlink=purple style='text-justify-trim:punctuation'><div class=WordSection1><p class=MsoNormal> <span lang=EN-US><o:p>&nbsp;</o:p></span></p><div align=center><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse'><tr><td width=887 colspan=2 valign=top style='width:665.55pt;border:solid #D9D9D9 1.0pt;border-bottom:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal style='margin-left:-5.65pt;mso-para-margin-left:-.47gd;text-align:justify;layout-grid-mode:char'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+<v:stroke joinstyle="miter" />
+<v:formulas>
+<v:f eqn="if lineDrawn pixelLineWidth 0" />
+<v:f eqn="sum @0 1 0" />
+<v:f eqn="sum 0 0 @1" />
+<v:f eqn="prod @2 1 2" />
+<v:f eqn="prod @3 21600 pixelWidth" />
+<v:f eqn="prod @3 21600 pixelHeight" />
+<v:f eqn="sum @0 0 1" />
+<v:f eqn="prod @6 1 2" />
+<v:f eqn="prod @7 21600 pixelWidth" />
+<v:f eqn="sum @8 21600 0" />
+<v:f eqn="prod @7 21600 pixelHeight" />
+<v:f eqn="sum @10 21600 0" />
+</v:formulas>
+<v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" />
+<o:lock v:ext="edit" aspectratio="t" />
+</v:shapetype><v:shape id="圖片_x0020_6" o:spid="_x0000_s1030" type="#_x0000_t75" alt="Innovation &amp;&#13;&#10;Digital Banking News&#13;&#10;為提升DBS同仁們對於數位銀行趨勢的掌握，DBS Innovation &amp; Digital Banking News於每週二發刊，提供最新的市場資訊如新創動態、金融創新、大數據應用、數位趨勢等，讓同仁們從市場動態中找尋更多DBS的契機！讓您掌握金融科技新脈動！&#13;&#10;" style='position:absolute;left:0;text-align:left;margin-left:177.4pt;margin-top:41.75pt;width:384.75pt;height:138.75pt;z-index:251681792;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page'>
+<v:imagedata src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/top_banner_2.png" o:title="Innovation &amp;&#13;&#10;Digital Banking News&#13;&#10;為提升DBS同仁們對於數位銀行趨勢的掌握，DBS Innovation &amp; Digital Banking News於每週二發刊，提供最新的市場資訊如新創動態、金融創新、大數據應用、數位趨勢等，讓同仁們從市場動態中找尋更多DBS的契機！讓您掌握金融科技新脈動！&#13;&#10;" />
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:absolute;z-index:251681792;left:0px;margin-left:236px;margin-top:56px;width:513px;height:185px'><img width=513 height=185 style='width:5.3437in;height:1.927in' src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/top_banner_1.png" alt="Innovation &amp;&#13;&#10;Digital Banking News&#13;&#10;為提升DBS同仁們對於數位銀行趨勢的掌握，DBS Innovation &amp; Digital Banking News於每週二發刊，提供最新的市場資訊如新創動態、金融創新、大數據應用、數位趨勢等，讓同仁們從市場動態中找尋更多DBS的契機！讓您掌握金融科技新脈動！&#13;&#10;" v:shapes="圖片_x0020_6"></span><![endif]> <span lang=EN-US><img width=868 height=242 style='width:9.0416in;height:2.5208in' id="圖片_x0020_115" src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/top_banner_1.png" alt="cid:image020.png@01D2A3FC.C6FD2290"><o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span class=MsoHyperlink><b><span style='font-family:"微軟正黑體",sans-serif;color:white;background:red'>本周711</span></b></span><span class=MsoHyperlink><b><span style='font-family:"微軟正黑體",sans-serif;color:white;background:red'>禮券這邊拿</span></b></span><span class=MsoHyperlink><b><span style='color:white;background:red'> </span></b></span><span class=MsoHyperlink><b> <span lang=EN-US style='color:white'>&nbsp;</span></b></span><span class=MsoHyperlink><b> <span lang=EN-US style='text-decoration:none'>→</span></b></span><span class=MsoHyperlinkFollowed><b> <span lang=EN-US style='color:windowtext;text-decoration:none'> </span></b></span> <span lang=EN-US><a href="http://mydbs.net/Pages/ContentTemplate1.aspx?taxid=320174&amp;ekfrm=197653">&nbsp;<b>Innovation &amp; Digital Banking News Quiz </b></a><o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><b><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>每個禮拜都會抽出</span></b><b> <span lang=EN-US style='font-size:10.0pt'>10</span></b><b><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>個填答幸運兒送出</span></b><b> <span lang=EN-US style='font-size:10.0pt'>100</span></b><b><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>元</span></b><b> <span lang=EN-US style='font-size:10.0pt'>7-11</span></b><b><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>禮券噢</span></b><b> <span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><!--[if gte vml 1]><v:shape id="直線接點_x0020_197" o:spid="_x0000_s1026" type="#_x0000_t75" style='position:absolute;margin-left:2.55pt;margin-top:10.9pt;width:538.5pt;height:.75pt;z-index:251660288;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page'>
+<v:imagedata src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/top_banner_2.png" o:title="" />
+<o:lock v:ext="edit" aspectratio="f" />
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><table cellpadding=0 cellspacing=0 align=left><tr><td width=3 height=14></td></tr><tr><td></td><td><img width=718 height=1 style='width:7.4791in;height:.0104in' src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_1.png" v:shapes="直線接點_x0020_197"></td></tr></table></span><![endif]> <span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US><o:p>&nbsp;</o:p></span></p><br style='mso-ignore:vglayout' clear=ALL><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US><img border=0 width=76 height=74 style='width:.7916in;height:.7708in' id="圖片_x0020_116" src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_1.png" alt="「gandalf lego」的圖片搜尋結果"><img border=0 width=151 height=52 style='width:1.5729in;height:.5416in' id="圖片_x0020_117" src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_2.png" alt="cid:image008.jpg@01D2FFA6.EBFC7310"><o:p></o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;letter-spacing:.75pt;background:white'>CRANE</span></b><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;letter-spacing:.75pt;background:white'>計畫 <span lang=EN-US><o:p></o:p></span></span></b></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>CRANE</span><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>計畫與 <span lang=EN-US>A*STAR</span>合作，提供早期預警以及信用風險與資產部位的持續追蹤。 <span lang=EN-US>CRANE</span>計畫 <span lang=EN-US>(Credit Risk Assessment Network Effects)</span>運用大數據與商業分析，做到以下兩點 <span lang=EN-US>:<o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='margin-left:18.0pt;mso-para-margin-left:0gd;text-indent:-18.0pt;mso-list:l0 level1 lfo4;layout-grid-mode:char'><![if !supportLists]> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>&nbsp;</span><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>透過分析及時市場資訊與持續追蹤，提供早期預警 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoListParagraph style='margin-left:18.0pt;mso-para-margin-left:0gd;text-indent:-18.0pt;mso-list:l0 level1 lfo4;layout-grid-mode:char'><![if !supportLists]> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>&nbsp;</span><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>針對警示標幟加強該對象信用檢測，並減少依賴人力 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoListParagraph style='margin-left:18.0pt;mso-para-margin-left:0gd;layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>CRANE</span><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>與借款人生態系統的依存性與連結，讓消費者樂於留下 <span lang=EN-US>LEADS</span>。有了 <span lang=EN-US>CRANE</span>之後， <span lang=EN-US>IBG</span>將有更佳的信用控管能力以及更好的風險管理，並且更易於進行交叉銷售。此外，此計畫也讓我們 <span lang=EN-US>DBS</span>更擁抱數位、實踐 <span lang=EN-US>PRIDE</span>。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>在東方文化， <span lang=EN-US>CRANE(</span>鶴 <span lang=EN-US>)</span>象徵幸運與長壽。就如其名， <span lang=EN-US>CRANE</span>計畫也將衛星展帶來興旺的運勢 <span lang=EN-US>!<o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;letter-spacing:.75pt;background:white'>交易示警 <span lang=EN-US><o:p></o:p></span></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>隨著恐怖主義的融資和洗錢活動受到高度重視，新加坡金融管理局（ <span lang=EN-US>MAS</span>）對貿易金融行業的”強健控制”，提出了更多的監管要求。如何在高度人工及需要大量紙本的金融交易中，確認客戶的交易異常行為呢 <span lang=EN-US>?<o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>交易示警與 <span lang=EN-US>A*STAR, GTS, Credit, FCSS, IBG, IBGO </span>和 <span lang=EN-US>IBGT</span>合作，其在資料分析方面的高度槓桿率，可以監控跨境交易。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>交易示警能為 <span lang=EN-US>IBG</span>帶來什麼好處呢？最主要的是它能夠提供全面性的客戶交易習慣，以此來促進 <span lang=EN-US>KYB</span>流程和審核信貸設施建議書；除此之外，交易示警能做為內部風險管理機制，可以偵測到貿易相關的洗錢行為、擴散融資等其他會受法律制裁的議題。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><!--[if gte vml 1]><v:shape id="直線接點_x0020_201" o:spid="_x0000_s1027" type="#_x0000_t75" style='position:absolute;margin-left:2.55pt;margin-top:10.9pt;width:538.5pt;height:.75pt;z-index:251662336;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page'>
+<v:imagedata src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_3.png" o:title="" />
+<o:lock v:ext="edit" aspectratio="f" />
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><table cellpadding=0 cellspacing=0 align=left><tr><td width=3 height=14></td></tr><tr><td></td><td><img width=718 height=1 style='width:7.4791in;height:.0104in' src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_4.png" v:shapes="直線接點_x0020_201"></td></tr></table></span><![endif]> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><br style='mso-ignore:vglayout' clear=ALL><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US><img border=0 width=310 height=63 style='width:3.2291in;height:.6562in' id="圖片_x0020_118" src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_3.png" alt="cid:image025.png@01D2A3FC.C6FD2290"><img border=0 width=86 height=78 style='width:.8958in;height:.8125in' id="圖片_x0020_119" src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_4.png" alt="cid:image026.jpg@01D2A3FC.C6FD2290"><o:p></o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif'>在經過幾周區塊鏈的介紹，本周延續上周，將進入新的主題—物聯網。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>(</span></b><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>前情提要 <span lang=EN-US>)</span>物聯網 <span lang=EN-US>(IOT)</span>是什麼？  <span lang=EN-US><o:p></o:p></span></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><u><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>物聯網是將實體物品藉由資訊感測裝置與網際網路連接起來，進行資訊交換與分享，以實現智慧化的識別與管理的網路，即實體世界的感知互動。</span></u><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>例如配備主動安全系統例如自動煞車、視覺盲點雷達感應、倒車車側警示或主動車距控制巡航系統等的車輛，當系統感應到進入接近碰撞危險距離時，車輛便會發出警示，同時將車輛減速或剎車停止，以免發生危險。</span> <span lang=EN-US style='background:white'><o:p></o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red'><img border=0 width=858 height=202 style='width:8.9375in;height:2.1041in' id="圖片_x0020_120" src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/middle_banner_5.png" alt="cid:image011.jpg@01D30565.064D95A0"><span style='mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p></o:p></span></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>物聯網應用案例 <span lang=EN-US style='color:red'><o:p></o:p></span></span></b></p><p class=MsoListParagraph style='margin-left:24.0pt;mso-para-margin-left:0gd;text-indent:-24.0pt;mso-list:l2 level1 lfo6;layout-grid-mode:char'><![if !supportLists]> <span lang=EN-US style='font-size:14.0pt;font-family:Wingdings;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>1. </span></b><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>家樂福全台首座智慧零售量販店 <span lang=EN-US><o:p></o:p></span></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>家樂福全台首座智慧零售量販店落腳桃園，該店年初開幕，以研華的 <span lang=EN-US>IoT</span>平台為武器、英特爾的運算處理器當大腦，三方攜手，導入滿意度調查系統、電子型錄、室內空氣品質、客流分析系統、中央控管公播系統、 <span lang=EN-US>WiFi</span>廣告定位推播等六大解決方案，要優化家樂福運營管理，提升顧客滿意度。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>據了解，這次三方合作從去年八月啟動，由實際了解消費者的家樂福提出需求後，再透過研華的智慧零售方案進行二次開發。目前，已在全台 <span lang=EN-US>100</span>間家樂福門市導入滿意度調查系統， <span lang=EN-US>30</span>間左右導入數位看板解決方案，並選定桃園八德店為首家智慧零售示範店。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='margin-left:24.0pt;mso-para-margin-left:0gd;text-indent:-24.0pt;mso-list:l2 level1 lfo6;layout-grid-mode:char'><![if !supportLists]><span class=MsoHyperlink> <span lang=EN-US style='font-size:11.0pt;font-family:Wingdings;color:red;text-decoration:none'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></span><![endif]><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>2. <a href="https://www.bnext.com.tw/article/44946/myvita-plans-to-expand-its-iot-demo-sites-to-more-than-40-stores"> <span lang=EN-US style='color:red;text-decoration:none'> <span lang=EN-US>台灣智慧家庭滲透率不到1</span></span> <span lang=EN-US style='color:red;text-decoration:none'> <span lang=EN-US>％，中保無限家要用實體店敲開市場大門</span></span></a></span></b><span class=MsoHyperlink> <span lang=EN-US style='font-family:Algerian;color:black;background:white;text-decoration:none'><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>中保無限家執行長林建涵表示，目前台灣的住家有 <span lang=EN-US>800</span>萬戶，但有安裝物聯網裝置或居家安全系統的家庭比例卻不到 <span lang=EN-US>1</span>％，中保無限家的目標是要突破現況，用更多的實體店面敲開市場大門。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char;box-sizing: border-box;word-break:break-word;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>中保集團在 <span lang=EN-US>2015</span>年推出「中保無限＋」品牌，作為一個物聯網平台，整合中保雲端系統、 <span lang=EN-US>App</span>與居家監控、健康照護服務等業務。過去兩年，中保集團從保全業轉型成家庭服務業，卻也讓林建涵看到了台灣在發展智慧家庭時的侷限，最重要的門檻是：產品不夠多。台灣在智慧家庭的發展限制多，在林建涵看來，這是一個雞生蛋、蛋生雞的問題，沒有產品很難推起來，「智慧家庭的精神是連動，但台灣的產品不夠多到能做這樣的事情。」不過，他也說，物聯網有分很多種，中保無限家還是可以選擇做自己能切入的領域。也因此，這兩年集團在推物聯網時，還是決定回歸到以保全起家的中保集團過去的專業：居家安全。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>例如，利用 <span lang=EN-US>App</span>進行居家監控，當偵測到一氧化碳濃度過高時，可以預先示警；或是自動切換瓦斯；當兒童回家時，向父母推播回家安全通報等。林建涵認為，現在很多人在談物聯網時，講的是你在手機上可以看到、操作很多東西，但其實物聯網真正的用處不是讓使用者主動去執行，而是在你需要時自動幫你處理好，「比如說你昏倒在家裡，你難道還要自己去開啟通報嗎？」在中保無限家的概念裡，是讓 <span lang=EN-US>sensor</span>（感測器）自動感應、通報，在緊急的時候派上用場，不再需要手動處理。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>即便台灣在發展智慧家庭上仍有侷限，但中保無限家仍看好未來發展前景，計畫以一個月展店 <span lang=EN-US>2</span>、 <span lang=EN-US>3</span>家的速度，今年目標在雙北市拓展到 <span lang=EN-US>40</span>家實體門市，「透過這些 <span lang=EN-US>demo site</span>（展示中心），我們現在要做的就是必須趕快增加消費市場的接受度。」林建涵說。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='margin-left:24.0pt;mso-para-margin-left:0gd;text-indent:-24.0pt;mso-list:l2 level1 lfo6;layout-grid-mode:char'><![if !supportLists]> <span lang=EN-US style='font-size:14.0pt;font-family:Wingdings;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>3. IBM</span></b><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>首次合作 <span lang=EN-US>VISA</span>，為 <span lang=EN-US>IoT</span>裝置加入自動支付功能 <span lang=EN-US><o:p></o:p></span></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>藍色巨人 <span lang=EN-US>IBM</span>近年致力投資於物聯網，而前日，在德國慕尼黑的 <span lang=EN-US>IBM</span>新物聯網總部成立活動上，其宣布與國際信用卡組織 <span lang=EN-US>Visa</span>合作，發展連網裝置支付應用。舉例來說，未來當每台車輛都連網時，車子的買賣或許不必再是一次高價買斷，車廠有辦法透過連網裝置與感應器，依據車主開的里程數來收使用費。又或者，洗衣機製造商能夠採租用方式，加上感應器與連網裝置，根據用戶洗衣的次數與洗衣的量來計價。在這情境下，用戶不必再做出「付費」的行為，他們所使用的物品，以及物品使用過程中，就已經包含「付費」。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>在這合作關係中， <span lang=EN-US>IBM</span>將提供旗下的 <span lang=EN-US>Watson IoT</span>運算平台，包含自然語言分析、機器學習、 <span lang=EN-US>AI</span>等認知技術。「物聯網裝置透過這些技術，現在不僅連網，還有了智慧，這也是促使我們與 <span lang=EN-US>VISA</span>合作的契機。」 <span lang=EN-US>IBM</span>旗下 <span lang=EN-US>Watson IoT</span>部門的副總裁 <span lang=EN-US>Brett Greenstein</span>這樣表示。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char;box-sizing: border-box;word-break:break-word;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px'> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>VISA</span><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>則負責付費部分，為了確保交易安全， <span lang=EN-US>VISA</span>預計使用 <span lang=EN-US>Token Service</span>技術，將每張信用卡都設有獨特，卻又不含個人資訊的數位辨識碼，而 <span lang=EN-US>IBM</span>的物聯網雲端運算技術，則會負責連結、管理這些密碼與裝置。 <span lang=EN-US>VISA</span>目前可說掌握了全球 <span lang=EN-US>60%</span>的交易，透過這次夥伴合作， <span lang=EN-US>VISA</span>也能夠接觸到 <span lang=EN-US>IBM</span>在物聯網產業已經建立的 <span lang=EN-US>6</span>千多家企業夥伴。兩家公司是第一次合作，除了雙方的立場與可能獲利層面來看，這個合作可能為成長的物聯網產業，帶來新的商業模式。 <span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal style='layout-grid-mode:char'><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>了解更多 <span lang=EN-US>: </span></span> <span lang=EN-US><a href="https://www.bnext.com.tw/search/tag/%E7%89%A9%E8%81%AF%E7%B6%B2">https://www.bnext.com.tw/search/tag/%E7%89%A9%E8%81%AF%E7%B6%B2</a><o:p></o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif;background:white'>以上的應用你能想到如何應用在金融業嗎？歡迎提供您的想法與建議 <span lang=EN-US>!<br></span></span> <span lang=EN-US><a href="mailto:twga2016@DBS1Bank.onmicrosoft.com"><span lang=ZH-CN style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif;mso-fareast-language:ZH-CN'>聯絡</span><span style='font-size:10.0pt;mso-fareast-language:ZH-CN'>Innovation &amp; Digital Banking News</span><span lang=ZH-CN style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif;mso-fareast-language:ZH-CN'>小組</span></a></span><span lang=ZH-CN style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif;mso-fareast-language:ZH-CN'>！</span> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif;mso-fareast-language:ZH-CN'><o:p></o:p></span></p><p class=MsoNormal style='layout-grid-mode:char'><!--[if gte vml 1]><v:shape id="直線接點_x0020_204" o:spid="_x0000_s1028" type="#_x0000_t75" style='position:absolute;margin-left:2.55pt;margin-top:10.9pt;width:538.5pt;height:.75pt;z-index:251664384;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page'>
+<v:imagedata src="cid:image006.png@01D2FFA6.EBFC7310" o:title="" />
+<o:lock v:ext="edit" aspectratio="f" />
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><table cellpadding=0 cellspacing=0 align=left><tr><td width=3 height=15></td></tr><tr><td></td><td><img width=718 height=1 style='width:7.4791in;height:.0104in' src="cid:image006.png@01D2FFA6.EBFC7310" v:shapes="直線接點_x0020_204"></td></tr></table></span><![endif]> <span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><br style='mso-ignore:vglayout' clear=ALL><p class=MsoNormal style='layout-grid-mode:char'><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:#C00000'>本期</span></b><b> <span lang=EN-US style='font-size:14.0pt;color:#C00000'>DBS Digital Banking News</span></b><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:#C00000'>市場動態</span></b><b> <span lang=EN-US style='font-size:14.0pt;color:#C00000'><o:p></o:p></span></b></p><p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;layout-grid-mode:char'> <span lang=EN-US><a href="#A"> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'> <span lang=EN-US>
+
+
+732物聯網在發展上，特別是消費性產品，為何進展如此緩慢?
+</span></span></a></span><span class=MsoHyperlink> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'><o:p></o:p></span></span></p><p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;layout-grid-mode:char'> <span lang=EN-US><a href="#B"> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'> <span lang=EN-US>
+734數位銀行比一比-渣打活存1.8%-市場最高
+</span></span></a></span><span class=MsoHyperlink> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'><o:p></o:p></span></span></p><p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;layout-grid-mode:char'><a name=c></a><a href="#E"><span style='mso-bookmark:c'><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>
+736搶進數位金融！ATM進化成VTM 銀行行員金飯碗恐不保
+</span></span></a><span class=MsoHyperlink> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'><o:p></o:p></span></span></p><p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;layout-grid-mode:char'> <span lang=EN-US><a href="#H"> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'> <span lang=EN-US>
+738支付寶前進東協，成未來亞洲貨幣?
+</span></span></a></span><span class=MsoHyperlink> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'><o:p></o:p></span></span></p><p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;layout-grid-mode:char'> <span lang=EN-US><a href="#H"> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'> <span lang=EN-US>
+740最完整的國際金融監理沙盒介紹
+</span></span></a></span>
+
+
+<span class=MsoHyperlink> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif;color:windowtext'><o:p></o:p></span></span></p><p class=MsoNormal style='line-height:16.0pt;mso-line-height-rule:exactly;layout-grid-mode:char'><b> <span lang=EN-US><o:p>&nbsp;</o:p></span></b></p></td></tr><tr><td width=887 colspan=2 valign=top style='width:665.55pt;border-top:none;border-left:solid #D9D9D9 1.0pt;border-bottom:none;border-right:solid #D9D9D9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><a name=A><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+
+746第一篇title-物聯網在發展上，特別是消費性產品，為何進展如此緩慢 ?
+</span></b></a><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+
+第一篇content-進入了移動互聯網時代，透過智慧型手機的 App展開新的運作，行動 SOLOMO與社群網路在此時發揮了極大的優勢，網路的廣告收入大部份都到了 Google和 Facebook的口袋中，消費者習慣在網路上購買物品，電商大大影響到線下實體零售店的生意。在智慧型手機飽和時，大家都在想，接下來的風口在哪裡？ 如果沒有智慧好用的產品，消費者當然不想購買，進展也必然緩慢。在穿戴式裝置方面，智慧手錶與手環誕生之初，不少功能都與智慧型手機重複，消費者有手機後，並不願意購買功能重複的產品，智慧手錶與手環因此賣不好。物聯網產品的發展被法律、道德、隱私，甚至政治等大環境因素阻礙，應用與服務也還沒有成熟到讓消費者願意買單（如穿戴式裝置與醫療數據、人工智慧的良好結合），加上各家裝置彼此串連的協定還沒完備，成為物聯網進展緩慢的重要因素。 進展雖然緩慢，但由物聯網影響生活的各個層面，可看出物聯網不只是行動網路的取代者，而是影響各個層面的生活便利產業，而人工智慧與大數據發展出來服務與應用，更是其中關鍵，這也是美國以及中國大陸的百度、騰訊與阿里巴巴等公司，全力衝刺這領域，主因他們都想要成為物聯網平台的主導者。 
+<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:12.0pt'><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>新聞來源</span> <span lang=EN-US style='font-size:10.0pt'>:</span> <span lang=EN-US> <a href=
+第一篇url-https://www.bnext.com.tw/article/45446/iot-develops-slowly-on-consumer-products
+>
+第一篇url-https://www.bnext.com.tw/article/45446/iot-develops-slowly-on-consumer-products
+</a><o:p></o:p></span></p><p class=MsoNormal><a name=B><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+
+756第二篇title-數位銀行比一比 渣打活存 1.8%市場最高
+</span></b></a><b> <span lang=EN-US style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+
+第二篇content-近年由於網路時代興起，已經改變民眾的生活習慣，為了使民眾方便進行金融交易，銀行看準商機，紛紛推出數位帳戶，只要符合一定條件，即可享有超高的活存利率，讓一般蠟燭兩頭燒、忙得不可開交的上班族也能利用時間線上開戶、輕鬆理財。銀行 的時代來臨，開戶後只要透過行動載具就能隨時隨地進行轉帳及查帳，無須臨櫃辦理，也不需要存摺，搭配晶片金融卡進行存提款、轉帳等交易，更可以省下去銀行排隊的麻煩與寶貴的時間。目前市場上大約有間銀行推出數位帳戶，雖有部分銀行提供了相對優惠的專案，然而渣打銀行所推出的心幸福數位帳戶，更以「活存利率最高加碼至向市場投下震撼彈。渣打銀行「心幸福數位帳戶」申辦迅速， 10分鐘即可完成線上開戶。專案優惠期間開戶成功之全新存款客戶，每個月只需要存入新資金 15,000元，自開戶成功日起三個月內之帳戶當月累積平均餘額在新台幣 10萬元（含）以內者，該餘額即可適用加碼至 1.8%之年利率加碼優惠；超過新台幣 10萬元（不含）之部分，亦可享有加碼至 1.2%的年利率加碼優惠。此外對於現代人越來越習慣網路消費，跨行提款、跨行轉帳每次都要扣元或15元不等的手續費，日積月累下來也是筆可觀的費用，渣打銀行「心幸福數位帳戶」針對符合每月優惠條件的客戶，提供次月 跨行提款、網銀及行動銀行跨行轉帳免手續費優惠，每日合計最高15次，就是要讓客戶不需要擔心每次跨行產生的費用，可以存錢存得有感，也可以省得有感。 
+<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>新聞來源</span> <span lang=EN-US style='font-size:10.0pt'>:</span> <span lang=EN-US> <a href=
+第二篇url-http://market.ltn.com.tw/article/2630
+><span style='font-size:11.0pt'>
+第二篇url-http://market.ltn.com.tw/article/2630
+</span></a></span> <span lang=EN-US style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal> <span lang=EN-US><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=887 colspan=2 valign=top style='width:665.55pt;border-top:none;border-left:solid #D9D9D9 1.0pt;border-bottom:none;border-right:solid #D9D9D9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal style='margin-bottom:12.0pt'><a name=E></a><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+
+766第三篇title-搶進數位金融！ ATM進化成VTM 銀行行員金飯碗恐不保 
+<span lang=EN-US><o:p></o:p></span></span></b></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+
+第三篇content-大家都知道可以提款、匯款的 ATM，不過VTM您聽過嗎？數位金融之下，不少銀行紛紛轉型， ATM也悄悄進化變身成為VTM， 也就是遠端視訊櫃台，有真人線上服務，包辦預約開戶或辦理信用卡這些業務，也衝擊到不少櫃台行員的金飯碗。 三立新聞記者陳儀潔：「來銀行辦理業務，最怕的就是遇到大排長龍的狀況，如果趕時間的時候，真的很傷腦筋，不過這台櫃員機，還可以拿來繳電話費，用的還是現金。」臨櫃繳款自動化，省去不少排隊的等候時間。因應數位時代，已經問世 50週年的 ATM，不斷進化變身成 ITM或 VTM。線上行員面對面服務，預約開戶或是辦理信用卡等 5種業務，只要掃一下身分證，一台機器就可以搞定，至少取代 位櫃員以上的人力。越來越多銀行搶進數位金融，華南銀行上路一年來，全台 5家分行有互動櫃台，而像是中國信託、第一銀行和玉山銀也有視訊櫃台。 數位金融再擴大，去年外銀也推出理專線上服務，就連提款、存款和換匯通通科技化，省掉大量的人力成本。數位化下，臨櫃行員需求大幅減少，不少銀行走向人力轉型或是整併分行，像是義大利裕信銀行，計劃在 <span lang=EN-US>2019</span>年之前裁員 <span lang=EN-US>1.4</span>萬人，而渣打銀行 <span lang=EN-US>2015</span>年宣布全球裁員 <span lang=EN-US>1.5</span>萬人，過去搶破頭的金飯碗，現正逐步受到衝擊。 
+<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><br></span><span style='font-size:10.0pt;font-family:"微軟正黑體",sans-serif'>新聞來源</span> <span lang=EN-US style='font-size:10.0pt'>: </span> <span lang=EN-US><a href=
+第三篇url-http://www.setn.com/News.aspx?NewsID=276018
+>
+第三篇url-http://www.setn.com/News.aspx?NewsID=276018
+</a><o:p></o:p></span></p></td></tr><tr><td width=887 colspan=2 valign=top style='width:665.55pt;border-top:none;border-left:solid #D9D9D9 1.0pt;border-bottom:none;border-right:solid #D9D9D9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormalCxSpMiddle style='margin-bottom:20.4pt;mso-add-space:auto;text-align:justify;line-height:20.4pt'> <span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=461 valign=top style='width:346.1pt;border:none;border-left:solid #D9D9D9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><a name=H><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+775第四篇title-支付寶前進東協，成未來亞洲貨幣？
+</span></b></a>
+<o:p></o:p></span></b></p>
+<p class=MsoNormal><b> <span lang=EN-US><span style='mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p></o:p></span></span></b></p></td><td width=426 valign=top style='width:319.45pt;border:none;border-right:solid #D9D9D9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=MsoNormal><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+780第五篇title-最完整的國際金融監理沙盒介紹 
+
+<o:p></o:p></span></span></b></p></td></tr><tr><td width=461 valign=top style='width:346.1pt;border:none;border-left:solid #D9D9D9 1.0pt;padding:100cm 5.4pt 0cm 5.4pt'>
+<p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+
+785第四篇content-中國，除了成為鄰界湄公河流域五國的投資大國，龐大的遊客也成為這塊市場龐大的消費力。但在中國長驅直入湄公河流域，大筆投資的基礎建設、高速鐵路還沒完成前，阿里巴巴旗下的行動支付工具「支付寶」，早一步實現人民幣走出中國的夢。 泰國成佈點首選。 2015年，支付寶開始從中國往海外走，距離近、中國旅客量龐大的泰國，成為支付寶往外走的第一站。「店家很有意願，透過支付寶可以讓自家的行銷資訊有效地送到來客手上，」螞蟻金服泰國總經理蘇貞說。蘇貞是泰國人， 2007年到014年曾到北京的銀行業工作，親眼目睹了中國風風火火的行動網路革命，和逐漸發展出的中國式支付工具。她在中國就習慣使用支付寶，如今成為支付寶落地家鄉泰國、逐步擴張的推手。「今年我們要往小店家、攤商來推廣，」中文流利的蘇貞透露。 櫃上蔓延的支付寶標誌，支付寶正從虛擬世界，掌握東協人民的生活。 
+
+<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:12.0pt'><span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>新聞來源 <span lang=EN-US>: </span></span> <span lang=EN-US><a href=
+
+789第四篇url-http://www.cw.com.tw/article/article.action?id=5083895
+><span style='font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+791第四篇url-http://www.cw.com.tw/article/article.action?id=5083895
+</span></a></span> <span lang=EN-US style='font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p></o:p></span></p></td><td width=426 valign=top style='width:319.45pt;border:none;border-right:solid #D9D9D9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:21.0pt;margin-left:0cm;background:white'><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple;mso-fareast-language:ZH-TW'>
+793第五篇content-各國的監理沙盒雖然都是圍繞著「金融科技創新」此一核念，並賦予新創業者在沙盒試驗期間可豁免部分現行法規管制的特權。但事實上，這種特權並不如想像中的毫無限制，各國在監理沙盒的防弊措施上，可是一點都不放鬆。不論是英國、新加坡、香港、澳洲或是我國，都把一定程度的審查和消費者保護機制納入沙盒運作的準則。可見對新創公司而言，縱然進入沙盒，也並非像穿上黃馬褂一樣，任何人都打不了你，不管是怎樣的科技創新或創意，在「金融消費者／投資人保護」這把尚方寶劍面前，也得低頭屈服。另外，除台灣以外，其他各國對試驗期間的規定都相當彈性，容許個案判定的空間，回過頭來檢視台灣，更令人擔憂定死 個月 個月試驗期間的妥適性。討論沙盒的口水已經很多，但在台灣討論沙盒規範的過程中，除了模仿其他國家的規定之外，台灣政府有沒有真正想過：希望透過沙盒將台灣的金融科技產業帶向何方？我們有別於其他國家的產業文化特色在哪？明確的定位是什麼？好比英國與新加坡近幾年特別重視區塊鏈、身分驗證等新興技術，對金融機構服務提升的助力；澳洲政府在規劃監理沙盒制度時，主要是圍繞在「降低沒有充足資源、經驗的金融科技新創進入市場的困難」此一中心思想。這些都是制度上該先釐清的問題。 沙盒的本意是一個虛幻的實驗空間，它可以趨近無限，也可以是個微小僅容芥子的空間，沙盒裡能容納多少想像，將取決於台灣政府怎麼去充實它。 
+
+
+
+<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>新聞來源 <span lang=EN-US>: </span></span> <span lang=EN-US><a href=
+798第五篇url-https://buzzorange.com/techorange/2017/07/21/fintech-sandbox-in-the-world/
+><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'>
+800第五篇url-https://buzzorange.com/techorange/2017/07/21/fintech-sandbox-in-the-world/
+
+</span></a></span> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;mso-style-textoutline-type:none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:center;mso-style-textoutline-outlinestyle-compound:simple'><o:p></o:p></span></p></td></tr><tr><td width=887 colspan=2 valign=top style='width:665.55pt;border-top:none;border-left:solid #D9D9D9 1.0pt;border-bottom:none;border-right:solid #D9D9D9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal align=center style='text-align:center;layout-grid-mode:char'><!--[if gte vml 1]><v:shape id="直線接點_x0020_213" o:spid="_x0000_s1029" type="#_x0000_t75" style='position:absolute;left:0;text-align:left;margin-left:0;margin-top:.35pt;width:538.5pt;height:.75pt;z-index:251667456;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page'>
+<v:imagedata src="cid:image006.png@01D2FFA6.EBFC7310" o:title="" />
+<o:lock v:ext="edit" aspectratio="f" />
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:absolute;z-index:251667456;left:0px;margin-left:0px;margin-top:0px;width:718px;height:1px'><img width=718 height=1 style='width:7.4791in;height:.0104in' src="cid:image006.png@01D2FFA6.EBFC7310" v:shapes="直線接點_x0020_213"></span><![endif]><span class=MsoHyperlink><b> <span lang=EN-US style='font-size:14.0pt;color:red'><o:p></o:p></span></b></span></p><p class=MsoNormal align=center style='text-align:center;layout-grid-mode:char'><span class=MsoHyperlink><b><span style='font-size:14.0pt;font-family:"微軟正黑體",sans-serif;color:red'>上期得獎名單</span></b></span><span class=MsoHyperlink><b> <span lang=EN-US style='font-size:14.0pt;color:red'><o:p></o:p></span></b></span></p><p class=MsoNormal align=center style='text-align:center;layout-grid-mode:char'><b><span style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif;color:red'>若有任何疑問，請洽</span></b> <span lang=EN-US><a href="mailto:twga2016@DBS1Bank.onmicrosoft.com"><b><span style='font-size:11.0pt'>Innovation &amp; Digtal Banking News</span></b><b> <span lang=EN-US style='font-size:11.0pt;font-family:"微軟正黑體",sans-serif'> <span lang=EN-US>小組</span></span></b></a><o:p></o:p></span></p><div align=center><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse'><tr><td width=169 valign=top style='width:126.75pt;border:solid windowtext 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-family:"新細明體",serif'>英文名</span> <span lang=EN-US><o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border:solid windowtext 1.0pt;border-left:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-family:"新細明體",serif'>部門</span> <span lang=EN-US><o:p></o:p></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Justy Shr<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-size:10.0pt;font-family:"新細明體",serif'>高雄分行 <span lang=EN-US style='color:black'><o:p></o:p></span></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Amy Yang<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>CHUNG KANG<o:p></o:p></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Sherylhsieh<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>天母分行 <span lang=EN-US><o:p></o:p></span></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Mary Hui Wen LO<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>A12 15F<o:p></o:p></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Stone Shih<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Taipei Hub 13F<o:p></o:p></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Jack Wang<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>內湖 <span lang=EN-US>13F<o:p></o:p></span></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>mayke<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>民權分行 <span lang=EN-US><o:p></o:p></span></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Vicky Lai<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>民權分行 <span lang=EN-US><o:p></o:p></span></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Sonya Yu<o:p></o:p></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal><span style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>內湖大樓 <span lang=EN-US>13</span>樓 <span lang=EN-US><o:p></o:p></span></span></p></td></tr><tr><td width=169 valign=top style='width:126.75pt;border:solid #A3A3A3 1.0pt;border-top:none;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>David</span> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif'> <span style='color:black'>Hsiang<o:p></o:p></span></span></p></td><td width=208 valign=top style='width:155.9pt;border-top:none;border-left:none;border-bottom:solid #A3A3A3 1.0pt;border-right:solid #A3A3A3 1.0pt;padding:4.0pt 4.0pt 4.0pt 4.0pt'><p class=MsoNormal> <span lang=EN-US style='font-size:10.0pt;font-family:"新細明體",serif;color:black'>Taipei Hub 12 F<o:p></o:p></span></p></td></tr></table></div></td></tr><tr style='height:106.55pt'><td width=887 colspan=2 valign=top style='width:665.55pt;border:solid #D9D9D9 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:106.55pt'><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 align=left width="100%" style='width:100.0%;margin-left:6.75pt;margin-right:6.75pt'><tr><td width=403 valign=bottom style='width:302.45pt;background:white;padding:13.6pt 0cm 13.6pt 0cm'><p class=MsoNormal> <span lang=EN-US style='font-size:8.0pt;color:#666666'>DBS Digital Banking News is a weekly compilation of latest news related to digital banking. Published every Tuesday, this news bulletin is put together by DBS TW Technology &amp; Operations. DBS Digital Banking News is restricted to staff and not intended for distribution outside the Group.</span> <span lang=EN-US><o:p></o:p></span></p></td><td width=406 style='width:304.65pt;padding:13.6pt 0cm 13.6pt 0cm'><p class=MsoNormal align=right style='text-align:right'> <span lang=EN-US><a href="http://www.dbs.com/awards/default.page" target="_BLANK"><span style='color:windowtext;text-decoration:none'><img border=0 width=300 height=59 style='width:3.125in;height:.6145in' id="圖片_x0020_121" src="/Users/chenchingchun/Desktop/DBS/2017:08:31 FINAL_PROJECT/78265910432_pack/down_banner.png" alt="cid:image040.png@01D2A3FC.C6FD2290"></span></a><o:p></o:p></span></p></td></tr></table></td></tr></table></div><div id=a59ada49-a492-4f1d-ac57-74be3a4194fc><p class=MsoNormal> <span lang=EN-US style='font-family:"新細明體",serif'><o:p>&nbsp;</o:p></span></p></div><div id=a59ada49-a492-4f1d-ac57-74be3a4194fc><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=50 style='width:37.5pt'><tr style='height:13.5pt'><td style='border:none;border-bottom:solid #EAEAEA 1.0pt;padding:0cm 0cm 0cm 0cm;height:13.5pt'><p class=MsoNormal> <span lang=EN-US style='font-family:"新細明體",serif'>&nbsp;<o:p></o:p></span></p></td></tr></table><p class=MsoNormal> <span lang=EN-US style='font-family:"新細明體",serif'><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="90%" style='width:90.0%'><tr style='height:12.75pt'><td style='padding:0cm 0cm 0cm 0cm;height:12.75pt'><p class=MsoNormal style='line-height:12.75pt'> <span lang=EN-US style='font-family:"新細明體",serif'>&nbsp;<o:p></o:p></span></p></td></tr><tr><td style='padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:12.75pt'><span style='font-size:9.0pt;font-family:"新細明體",serif;color:#666666'>您收到此訊息是因為您是</span><span style='font-size:9.0pt;font-family:"Segoe UI",sans-serif;color:#666666'> </span> <span lang=EN-US><a href="https://outlook.office365.com/owa/twga2016@DBS1Bank.onmicrosoft.com/groupsubscription.ashx?realm=DBS1Bank.onmicrosoft.com&amp;source=EscalatedMessage&amp;action=conversations"><span style='font-size:9.0pt;font-family:"Segoe UI Semibold",sans-serif;color:#0072C6;text-decoration:none'>TW GA 2016</span></a></span> <span lang=EN-US style='font-size:9.0pt;font-family:"Segoe UI",sans-serif;color:#666666'> </span><span style='font-size:9.0pt;font-family:"新細明體",serif;color:#666666'>群組的成員。</span><span style='font-size:9.0pt;font-family:"Segoe UI",sans-serif;color:#666666'> </span><span style='font-size:9.0pt;font-family:"新細明體",serif;color:#666666'>如果您不想收到來自此群組的任何訊息或活動，請</span> <span lang=EN-US><a href="https://outlook.office365.com/owa/twga2016@DBS1Bank.onmicrosoft.com/groupsubscription.ashx?realm=DBS1Bank.onmicrosoft.com&amp;source=EscalatedMessage&amp;action=unsubscribe" id=BD5134C6-8D33-4ABA-A0C4-08581FDF89DB> <span lang=EN-US style='font-size:9.0pt;font-family:"新細明體",serif;color:#0072C6;text-decoration:none'> <span lang=EN-US>停止在您的收件匣中關注</span></span></a></span><span style='font-size:9.0pt;font-family:"新細明體",serif;color:#666666'>。</span> <span lang=EN-US style='font-size:9.0pt;font-family:"Segoe UI",sans-serif;color:#666666'><o:p></o:p></span></p></td></tr><tr style='height:12.75pt'><td style='padding:0cm 0cm 0cm 0cm;height:12.75pt'><p class=MsoNormal style='line-height:12.75pt'> <span lang=EN-US style='font-family:"新細明體",serif'>&nbsp;<o:p></o:p></span></p></td></tr><tr><td style='padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:12.75pt'> <span lang=EN-US><a href="https://outlook.office365.com/owa/twga2016@DBS1Bank.onmicrosoft.com/groupsubscription.ashx?realm=DBS1Bank.onmicrosoft.com&amp;source=EscalatedMessage&amp;action=conversations"> <span lang=EN-US style='font-size:9.0pt;font-family:"新細明體",serif;color:#666666;text-decoration:none'> <span lang=EN-US>檢視群組交談</span></span></a></span> <span lang=EN-US style='font-size:9.0pt;font-family:"Segoe UI",sans-serif;color:#C8C8C8'>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span> <span lang=EN-US><a href="https://outlook.office365.com/owa/twga2016@DBS1Bank.onmicrosoft.com/groupsubscription.ashx?realm=DBS1Bank.onmicrosoft.com&amp;source=EscalatedMessage&amp;action=files"> <span lang=EN-US style='font-size:9.0pt;font-family:"新細明體",serif;color:#666666;text-decoration:none'> <span lang=EN-US>檢視群組檔案</span></span></a></span> <span lang=EN-US style='font-size:9.0pt;font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p></td></tr><tr style='height:12.75pt'><td style='padding:0cm 0cm 0cm 0cm;height:12.75pt'><p class=MsoNormal style='line-height:12.75pt'> <span lang=EN-US style='font-family:"新細明體",serif'>&nbsp;<o:p></o:p></span></p></td></tr></table><p class=MsoNormal> <span lang=EN-US style='font-family:"新細明體",serif'><o:p>&nbsp;</o:p></span></p></div></div>
+<script>
+  (function() {
+    var cx = '001809456320273845324:5w_wmkcmnv8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</body></html>
